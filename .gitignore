@@ -1,0 +1,18 @@
+# --- Python Environment ---
+.venv/
+__pycache__/
+*.py[cod]
+
+# --- Secrets ---
+.env
+
+temp/
+*.pdf
+
+# --- IDE & Editors ---
+.idea/
+.vscode/
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
