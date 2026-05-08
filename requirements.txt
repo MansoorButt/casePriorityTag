@@ -9,6 +9,9 @@ PyMuPDF==1.27.2.2
 # AI/LLM Integration
 cohere==6.1.0
 
+# Azure
+azure-data-tables
+
 # Environment & Utilities
 python-dotenv==1.2.2
 
